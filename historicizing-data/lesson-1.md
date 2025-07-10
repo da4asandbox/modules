@@ -1,6 +1,6 @@
 ---
-title: "Lesson 2.1: Data Histories"
-layout: juncture
+juncture: true
+title: "Lesson 1"
 ---
 
 <style>
